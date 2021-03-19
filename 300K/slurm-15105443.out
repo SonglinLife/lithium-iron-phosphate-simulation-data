@@ -1,0 +1,4 @@
+2021-03-04 10:54:29.376432: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2021-03-04 10:54:29.412603: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2394685000 Hz
+2021-03-04 10:54:29.414567: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56186e025830 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-03-04 10:54:29.414626: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
